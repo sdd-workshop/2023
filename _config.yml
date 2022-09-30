@@ -20,13 +20,13 @@ title: 1st International Workshop on Software Defect Datasets
 keywords: correctness, testing, verification, debugging, formal methods
 
 # Short description of your site
-desc: Correctness Workshop 2022
+desc: 1st International Workshop on Software Defect Datasets
 
 # --- Navigation bar options --- #
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/picture.jpg"
+avatar: ""
 
 # List of links in the navigation bar
 nav-links:
@@ -65,7 +65,7 @@ disqus: "Your-Disqus-Id"
 google_analytics: "Your-GA-Id"
 
 # Set these options as you need (For more information, check Jekyll's site)
-timezone: "Europe/Berlin"
+timezone: "America/Los_Angeles"
 markdown: kramdown
 #highlighter: rouge
 kramdown:
