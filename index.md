@@ -6,7 +6,7 @@ comments: false
 
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
-<center><h2>SDD 2023: 1st International Workshop</h2></center>
+<center><h2> SDD 2023: 1st International Workshop </h2></center>
 <center><h4> November 18, 2022 (half day, 8:30am - 12pm CST) </h4></center>
 <center><h4> Kay Bailey Hutchison Convention Center Dallas </h4></center>
 <center><h4> Dallas, Texas, USA </h4></center>
