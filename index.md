@@ -1,14 +1,12 @@
 ---
 layout: template1
-title: Correctness 2022
+title: SDD 2022
 comments: false
 ---
 
-<img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
+<img src="img/melbourne.png" alt="Drawing" style="width:1200px;" />
 
 <center><h2>SDD 2023: 1st International Workshop on Software Defect Datasets</h2></center>
-<!--<center><h4> November 18, 2022 (half day, 8:30am - 12pm CST) </h4></center>
-<center><h4> Kay Bailey Hutchison Convention Center Dallas </h4></center>-->
 <center><h4> Melbourne, Australia </h4></center>
 <center><h5> Held in conjunction with ICSE 2023: <a
 href=https://conf.researchr.org/home/icse-2023">The International Conference
@@ -70,13 +68,6 @@ The proceedings will be archived in IEEE Xplore.
 
 
 ---
-<!--
-### <a class="anchor" name="org">Organizer</a>
-
-[Cindy Rubio-González](http://web.cs.ucdavis.edu/~rubio/), UC Davis
-
----
--->
 ### <a class="anchor" name="pc">Program Committee</a>
 
 TBD.
