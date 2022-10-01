@@ -9,7 +9,7 @@ comments: false
 <center><h2>SDD 2023: 1st International Workshop on Software Defect Datasets</h2></center>
 <center><h4> Melbourne, Australia </h4></center>
 <center><h5> Held in conjunction with ICSE 2023: <a
-href=https://conf.researchr.org/home/icse-2023">The International Conference
+href="https://conf.researchr.org/home/icse-2023">The International Conference
 on Software Engineering</a> </h5></center>
 <center>
 </center>
@@ -81,6 +81,6 @@ TBD.
 ### <a class="anchor" name="program">Program</a>
 <br />
 
-TBD
+TBD.
 
 
