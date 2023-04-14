@@ -50,7 +50,7 @@ of an accepted paper must register for and attend the workshop.
 ---
 ###  <a class="anchor" name="proceedings"> Proceedings </a>
 
-The proceedings will be archived in IEEE Xplore.
+The proceedings will be archived in the ACM Digital Library.
 
 ---
 ### <a class="anchor" name="dates"> Important Dates </a>
