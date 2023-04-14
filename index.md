@@ -62,9 +62,9 @@ The proceedings will be archived in IEEE Xplore.
 * Camera-ready papers due: TBD
 -->
 
-* Paper submissions due: TBD.
-* Notification of acceptance: TBD.
-* Camera-ready papers due: TBD.
+* Paper submissions due: Monday July 10th, 2023 (AoE).
+* Notification of acceptance: Thursday August 10th, 2023.
+* Camera-ready papers due: Thursday August 24th, 2023.
 
 
 ---
