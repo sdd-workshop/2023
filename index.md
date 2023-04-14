@@ -35,14 +35,14 @@ Topics of interest include, but are not limited to:
 ### <a class="anchor" name="submissions"> Submissions and Format </a>
 
 Authors are invited to submit manuscripts in English structured as
-short papers at a length of at most 2 pages of content, excluding
+short papers at a length of at most 4 pages of content, excluding
 references. Short papers can be (1) position papers that describe
 issues related to the creation or use of defect datasets for software
 engineering research, (2) experience papers that describe best
 practices or challenges encountered when creating or using defects
 datasets, or (3) extended abstracts that describe work in progress,
 current challenges and/or opportunities in the area of defect
-datasets. Submissions must use the IEEE format. Papers not following
+datasets. Submissions must conform to the [ESEC/FSE Format and Submission Guidelines](https://2023.esec-fse.org/track/fse-2023-research-papers). Papers not following
 these guidelines will be rejected without review. At least one author
 of an accepted paper must register for and attend the workshop. 
 
