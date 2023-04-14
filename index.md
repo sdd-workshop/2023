@@ -4,7 +4,7 @@ title: SDD 2023
 comments: false
 ---
 
-<img src="img/melbourne.png" alt="Drawing" style="width:1200px;" />
+<img src="img/SF.png" alt="Drawing" style="width:1200px;" />
 
 <center><h2>SDD 2023: 1st International Workshop on Software Defect Datasets</h2></center>
 <center><h4> San Francisco, California, USA
