@@ -7,10 +7,10 @@ comments: false
 <img src="img/melbourne.png" alt="Drawing" style="width:1200px;" />
 
 <center><h2>SDD 2023: 1st International Workshop on Software Defect Datasets</h2></center>
-<center><h4> Melbourne, Australia </h4></center>
-<center><h5> Held in conjunction with ICSE 2023: <a
-href="https://conf.researchr.org/home/icse-2023">The International Conference
-on Software Engineering</a> </h5></center>
+<center><h4> San Francisco, California, USA
+  </h4></center>
+<center><h5> Held in conjunction with ESEC/FSE 2023: <a
+href="https://conf.researchr.org/home/fse-2023">The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering</a> </h5></center>
 <center>
 </center>
 
