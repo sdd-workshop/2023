@@ -1,6 +1,6 @@
 ---
 layout: template1
-title: SDD 2022
+title: SDD 2023
 comments: false
 ---
 
