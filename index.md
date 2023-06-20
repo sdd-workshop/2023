@@ -7,6 +7,9 @@ comments: false
 <img src="img/SF.png" alt="Drawing" style="width:1200px;" />
 
 <center><h2>SDD 2023: 1st International Workshop on Software Defect Datasets</h2></center>
+<center><h4> Friday December 8th, 2023
+  </h4></center>
+
 <center><h4> San Francisco, California, USA
   </h4></center>
 <center><h5> Held in conjunction with ESEC/FSE 2023: <a
@@ -62,9 +65,9 @@ The proceedings will be archived in the ACM Digital Library.
 * Camera-ready papers due: TBD
 -->
 
-* Paper submissions due: Monday July 10th, 2023 (AoE).
-* Notification of acceptance: Thursday August 10th, 2023.
-* Camera-ready papers due: Thursday August 24th, 2023.
+* Paper submissions due: Monday July 31st, 2023 (AoE).
+* Notification of acceptance: Monday August 21st, 2023.
+* Camera-ready papers due: Thursday August 31st, 2023.
 
 
 ---
