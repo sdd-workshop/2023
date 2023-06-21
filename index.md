@@ -71,6 +71,11 @@ The proceedings will be archived in the ACM Digital Library.
 
 
 ---
+### <a class="anchor" name="org"> Organizer </a>
+
+[Cindy Rubio-González](https://web.cs.ucdavis.edu/~rubio/), UC Davis
+
+---
 ### <a class="anchor" name="pc">Program Committee</a>
 
 TBD.
